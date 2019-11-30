@@ -1,0 +1,1 @@
+<?php echo "OpenDoor=1"; ?>
